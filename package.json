@@ -1,10 +1,10 @@
 {
   "name": "projectv",
-  "version": "1.0.0",
+  "version": "0.4.26",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc && node ./src/index.js"
   },
   "repository": {
     "type": "git",
@@ -12,9 +12,13 @@
   },
   "keywords": [],
   "author": "nknight_amamiya <n.knight.pc0627@gmail.com> (https://npm.pkg.github.com/nknight_amamiya)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/projectv-metaverse/projectv/issues"
   },
-  "homepage": "https://github.com/projectv-metaverse/projectv#readme"
+  "homepage": "https://github.com/projectv-metaverse/projectv#readme",
+  "devDependencies": {
+    "ava": "^5.2.0",
+    "typescript": "^4.9.5"
+  }
 }
