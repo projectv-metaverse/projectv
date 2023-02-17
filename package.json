@@ -1,0 +1,20 @@
+{
+  "name": "projectv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectv-metaverse/projectv.git"
+  },
+  "keywords": [],
+  "author": "nknight_amamiya <n.knight.pc0627@gmail.com> (https://npm.pkg.github.com/nknight_amamiya)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectv-metaverse/projectv/issues"
+  },
+  "homepage": "https://github.com/projectv-metaverse/projectv#readme"
+}
